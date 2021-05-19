@@ -1,0 +1,14 @@
+{
+    "name": "jlkj/anhuipay",
+    "description": "A library for anhui nontax pay",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "覃付兴",
+            "email": "523566228@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
